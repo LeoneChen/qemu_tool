@@ -1,0 +1,1 @@
+sudo apt install "libvirt-clients" "virt-manager" -y

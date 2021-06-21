@@ -1,0 +1,4 @@
+*.zip
+qemu-sgx
+.idea
+
